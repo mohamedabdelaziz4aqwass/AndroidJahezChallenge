@@ -7,4 +7,4 @@ The following diagram shows the structure of this project with 3 layers:
 - Domain
 - Data
   
-![image](https://raw.githubusercontent.com/mohamedabdelziz82/TrendingTask-Coroutines/master/diagram.png?raw=true)
+![image](https://github.com/mohamedabdelaziz4aqwass/AndroidJahezChallenge/blob/main/diagram.png?raw=true)
