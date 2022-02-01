@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">جاهز</string>
+    <string name="label_dismiss">إلغاء</string>
+    <string name="label_offers">عروض</string>
+    <string name="label_distance">المسافة</string>
+    <string name="label_rating">التقييم</string>
+    <string name="label_restaurants_list">قائمة المطاعم</string>
+    <string name="label_settings">الإعدادات</string>
+    <string name="label_lang">اللغة</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="label_app_lang">لغة التطبيق</string>
+    <string name="ok">موافق</string>
+    </resources>
